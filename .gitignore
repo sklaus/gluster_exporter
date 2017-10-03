@@ -32,5 +32,4 @@ vendor/*
 
 .idea/
 
-gluster_exporter
 *.tar.gz
